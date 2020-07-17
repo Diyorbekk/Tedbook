@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aafadefa-d3ec-4e80-a19b-fc8fb0dab250" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dXM2KVHd52BppBoPWQQh3jK47N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Tedbook\images" />
+      <recent name="C:\Users\Diyor\Desktop\Tedbook\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aafadefa-d3ec-4e80-a19b-fc8fb0dab250" name="Default Changelist" comment="" />
+      <created>1592566775672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592566775672</updated>
+      <workItem from="1592566776970" duration="3288000" />
+      <workItem from="1592656359303" duration="19488000" />
+      <workItem from="1592719595988" duration="1810000" />
+      <workItem from="1592722156333" duration="1793000" />
+      <workItem from="1592724068687" duration="175000" />
+      <workItem from="1592724261746" duration="21000" />
+      <workItem from="1592724629193" duration="1837000" />
+      <workItem from="1592726724905" duration="802000" />
+      <workItem from="1592727694067" duration="1793000" />
+      <workItem from="1592729515681" duration="1793000" />
+      <workItem from="1592731445739" duration="1792000" />
+      <workItem from="1592733264955" duration="1439000" />
+      <workItem from="1592736801208" duration="1792000" />
+      <workItem from="1592738619557" duration="1793000" />
+      <workItem from="1592740437325" duration="1798000" />
+      <workItem from="1592742305155" duration="680000" />
+      <workItem from="1592752701619" duration="1902000" />
+      <workItem from="1592754653216" duration="2242000" />
+      <workItem from="1592757307988" duration="1856000" />
+      <workItem from="1592759803704" duration="602000" />
+      <workItem from="1592802583367" duration="12110000" />
+      <workItem from="1592824291505" duration="255000" />
+      <workItem from="1592825601054" duration="548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592726831344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592726831344" />
+    <state x="590" y="372" key="Performance.Activity.Monitor" timestamp="1592724277109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="372" key="Performance.Activity.Monitor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592724277109" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1592738063111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592738063111" />
+  </component>
+</project>

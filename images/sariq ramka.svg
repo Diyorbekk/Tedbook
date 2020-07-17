@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="784.1" height="681.332" viewBox="0 0 784.1 681.332">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.938" y1="0.079" x2="0.088" y2="0.934" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fad000"/>
+      <stop offset="1" stop-color="#e6c104"/>
+    </linearGradient>
+  </defs>
+  <g id="Сгруппировать_96" data-name="Сгруппировать 96" transform="translate(-937.025 -3912.337)">
+    <rect id="Прямоугольник_16" data-name="Прямоугольник 16" width="784.1" height="681.332" transform="translate(937.025 3912.337)" fill="#fad000" opacity="0.3"/>
+    <rect id="Прямоугольник_15" data-name="Прямоугольник 15" width="718.837" height="622.021" transform="translate(969.657 3941.993)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
