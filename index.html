@@ -37,12 +37,12 @@
                 GAPIRING!</h4>
 
             <div class="d-flex justify-content-center pt-md-5 mt-5">
-                <button class="btn header-left-block-button mt-md-5 py-0">BUYURTMA BERISH</button>
+                <button class="btn header-left-block-button mt-md-5 py-0" id="myId">BUYURTMA BERISH</button>
             </div>
         </div>
         <div class="col-md-6 header-right-block">
             <img src="images/ingliz kit-1.png" class="header-logo-right-img">
-            <button class="btn header-right-block-button py-0">BUYURTMA BERISH</button>
+            <button class="btn header-right-block-button py-0" id="myIdmob">BUYURTMA BERISH</button>
         </div>
     </div>
 </header>
@@ -331,7 +331,7 @@
 
 
             <div class="col-12 mt-5 d-flex justify-content-center align-items-center">
-                <button class="btn green-button px-5">BUYURTMA BERISH</button>
+                <button class="btn green-button px-5" id="myID2">BUYURTMA BERISH</button>
             </div>
 
         </div>
@@ -461,7 +461,7 @@
         </div>
 
         <div class="col-12 mt-5 d-flex justify-content-center align-items-center">
-            <button class="btn green-button px-5">BUYURTMA BERISH</button>
+            <button class="btn green-button px-5" id="myId3">BUYURTMA BERISH</button>
         </div>
     </div>
 </section>
@@ -650,7 +650,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-10">
                 <form class="form-box">
-                    <input type="text" class="form-box-input mt-md-5 mt-2" placeholder="Ismingizni kiriting">
+                    <input type="text" class="form-box-input form-box-input-2 mt-md-5 mt-2" placeholder="Ismingizni kiriting">
 
                     <input type="tel" class="form-box-input mt-md-5 mt-2" placeholder="Telefon raqamingiz">
 
@@ -821,10 +821,69 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/countDown.min.js"></script>
 <script>
+    $("#myId").click(function () {
+        if ($(window).height() <= 650) {
+            $('html, body').animate({
+                scrollTop: $(".form-box-input").offset().top + -400
+            }, 2000)
+        }
+
+        if ($(window).height() >= 651) {
+            $('html, body').animate({
+                scrollTop: $(".form-box-input").offset().top + -400
+            }, 2000)
+        }
+        $('.Focus').focus();
+    });
+
+    $("#myID2").click(function () {
+        if ($(window).height() >= 768) {
+            $('html, body').animate({
+                scrollTop: $(".form-box-input").offset().top + -400
+            }, 2000)
+        }
+
+        if (window.matchMedia('(max-width: 767px)').matches && window.matchMedia('(min-width: 320px)').matches) {
+            $('html, body').animate({
+                scrollTop: $(".form-box-input").offset().top + -350
+            }, 2000)
+        }
+
+        $('.Focus').focus();
+    });
+
+    $("#myIdmob").click(function () {
+        if (window.matchMedia('(max-width: 767px)').matches && window.matchMedia('(min-width: 320px)').matches) {
+            $('html, body').animate({
+                scrollTop: $(".form-box-input").offset().top + -350
+            }, 2000)
+        }
+
+        if (window.matchMedia('(max-width: 767px)').matches && window.matchMedia('(min-width: 320px)').matches) {
+            $('html, body').animate({
+                scrollTop: $(".form-box-input").offset().top + -350
+            }, 2000)
+        }
+
+        $('.Focus').focus();
+
+
+    });
+
+
+    $("#myId3").click(function () {
+        if ($(window).height() >= 768) {
+            $('html, body').animate({
+                scrollTop: $(".form-box-input-2").offset().top + -400
+            }, 2000)
+        }
+        $('.Focus').focus();
+    });
+
     var cd = new Countdown({
         cont: document.querySelector('.flipTimer'),
-        countdown: false,
-        date: Date.now() - 50000000,
+        countdown: true,
+        date: Date.now() + 50000000,
         outputTranslation: {
             day: 'Days',
             hour: 'Hours',
@@ -838,8 +897,8 @@
 
     var cd2 = new Countdown({
         cont: document.querySelector('.flipTimer-2'),
-        countdown: false,
-        date: Date.now() - 50000000,
+        countdown: true,
+        date: Date.now() + 50000000,
         outputTranslation: {
             day: 'Days',
             hour: 'Hours',
