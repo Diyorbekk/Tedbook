@@ -1,0 +1,34 @@
+.countdown {
+    font-family: 'Montserrat',sans-serif;
+    text-transform: uppercase;
+}
+
+.countdown > div {
+    display: inline-block;
+}
+
+.countdown > div > span {
+    display: block;
+    text-align: center;
+}
+
+.countdown-container {
+    margin: 0 6px;
+}
+
+.countdown-container .countdown-heading {
+    font-size: 16px;
+    margin: 3px;
+    color: black;
+    font-weight: 600;
+}
+
+.countdown-container .countdown-value {
+    font-size: 85px;
+    background: #f7f7f7;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
+    box-shadow: 0 15px 0.1em rgba(0, 0, 0, 0.06);
+}
